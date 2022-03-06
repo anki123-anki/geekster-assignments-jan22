@@ -1,0 +1,38 @@
+.div1 {
+    background-color: rgb(178, 241, 241);
+}
+h1{
+    margin-left: 400px;
+    color: rgb(249, 253, 249);
+}
+
+table {
+   
+    margin-left: 400px;
+    background-color: rgb(123, 240, 28);
+    color: whitesmoke;
+}
+
+button {
+    text-align: center;
+    /* margin-left: 500px; */
+    width: 90px; 
+    height: 90px;
+    background-color: rgb(165, 236, 171);
+    color: rgb(74, 35, 165);
+}
+
+.div2 {
+    background-color: rgb(245, 140, 140);
+    color: rgb(250, 252, 248);
+    padding-top: 30px;
+    margin-left: 400px;
+    margin-right: 560px;
+    height: 80px;
+    font-size: 60px;
+    text-align: center;
+    
+    margin-top: 100px;
+    width: 385px;
+    
+}
