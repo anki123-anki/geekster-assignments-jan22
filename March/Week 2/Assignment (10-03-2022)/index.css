@@ -1,0 +1,12 @@
+body{
+    background-image:radial-gradient(#a0c79b,#a5f59b,#a3f599);
+}
+.container {
+    text-align: center;
+    background-image:radial-gradient(#96cc8f,#80f770,#2cf112);
+    width: 200px;
+    margin: auto;
+    padding: 50px;
+    color: white;
+    font-size: 50px;
+  }
